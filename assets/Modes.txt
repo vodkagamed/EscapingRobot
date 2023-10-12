@@ -1,0 +1,18 @@
+enemySpeed, enemyShieldAmount, enemyLaserSpeed;
+enemyTimeShot
+
+
+//player
+7
+5
+3
+
+//Enemy
+counter = 1
+140,1,240,1.5 --->easy
+
+counter = 3
+190,2,300,0.8  ---> normal
+
+counter = 5
+300,3,450,0.4 --->hard
